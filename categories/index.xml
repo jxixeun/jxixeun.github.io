@@ -10,6 +10,16 @@
       <link>https://jxixeun.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://jxixeun.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Fri, 07 Jul 2023 16:30:12 +0900</lastBuildDate><atom:link href="https://jxixeun.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>study</title>
+      <link>https://jxixeun.github.io/categories/study/</link>
+      <pubDate>Fri, 07 Jul 2023 16:30:12 +0900</pubDate>
+      
+      <guid>https://jxixeun.github.io/categories/study/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
